@@ -1,0 +1,11 @@
+* Blend4Web installer for NixOS
+
+Download, unpack and nixify blend4web.
+
+** Usage:
+
+#+begin_src sh :exports code
+git clone git@github.com:AttilaVM/blend4web-nixifyed.git
+cd blend4web-nixifyed
+nix-shell
+#+end_src
